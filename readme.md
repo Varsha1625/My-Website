@@ -41,4 +41,4 @@ Contact — Direct way to reach out for collaborations or opportunities.
 LIVE DEMO :
 
 Check out the live site here:
-👉 https://varsha1625.github.io/My-Website/
+👉 https://varsha1625.github.io/MY-WEBSITE/
